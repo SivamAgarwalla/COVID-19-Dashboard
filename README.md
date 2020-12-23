@@ -12,4 +12,3 @@ There will be updates to this dashboard and future plans include.
 ---
 
 ![Dashboard Home](https://i.ibb.co/bvWN6MJ/covid-19-dashboard.png)
-![Dashboard Home]("https://ibb.co/gWjtrLV")
