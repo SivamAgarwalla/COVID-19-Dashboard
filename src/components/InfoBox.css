@@ -1,0 +1,19 @@
+.infoBox {
+  flex: 1;
+  text-align: center;
+  cursor: pointer;
+}
+
+.infoBox--selected {
+  border: 3px solid #5a5d61;
+}
+
+.infoBox:not(:last-child) {
+  margin-right: 10px;
+}
+
+.infoBox__cases {
+  font-size: 35px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
